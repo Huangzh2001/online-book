@@ -1,0 +1,15 @@
+# Table of contents
+# Learn more at https://jupyterbook.org/customize/toc.html
+
+format: jb-book
+root: intro
+parts:
+  - caption: Prior Knowledge
+    chapters:
+    - file: doc/part1/chapter1
+    - file: doc/part1/chapter2
+    - file: doc/part1/chapter3
+    - file: doc/part1/chapter4
+  - caption: Stochastic Process
+    chapters:
+    - file: doc/part2/chapter1
