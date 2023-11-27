@@ -4,13 +4,13 @@
 format: jb-book
 root: intro
 parts:
-  - caption: Prior Knowledge
+  - caption: 预备知识
     chapters:
     - file: doc/part1/chapter1
     - file: doc/part1/chapter2
     - file: doc/part1/chapter3
     - file: doc/part1/chapter4
-  - caption: Stochastic Process
+  - caption: 随机过程
     chapters:
     - file: doc/part2/chapter1
   - caption: 泊松过程
