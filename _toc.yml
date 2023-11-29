@@ -31,3 +31,6 @@ parts:
   - caption: 布朗运动
     chapters:
     - file: doc/part8/chapter1
+  - caption: 习题
+    chapters:
+    - file: doc/exercises/chapter4
